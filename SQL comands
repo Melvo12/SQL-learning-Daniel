@@ -13,3 +13,9 @@ VALUES ('Lucas','Dalto',21),
 
 
 SELECT * FROM practica 
+
+
+
+PK: Primary key 
+AI: autoincrement
+Estos dos son para que cada dato tenga un ID unico para identificar. 
