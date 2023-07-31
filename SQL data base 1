@@ -1,0 +1,3 @@
+Insert into practica (Name,Apellido,Edad)
+VALUES ('Lucas','Dalto',21),
+('Juan','Alvarez','54'),('Roberto','Lara',25)
