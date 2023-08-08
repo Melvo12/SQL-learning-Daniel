@@ -23,6 +23,23 @@ Insert into ejercicios.tablauno (Id, Name ,City,Comission) values
 
 SELECT * FROM tablauno;
 
+2. Write a SQL statement to display a string "This is SQL Exercise, Practice and Solution". 
+
+SELECT "This is SQL Exercise, Practice and Solution"
+
+3. Write a SQL query to display three numbers in three columns. 
+
+SELECT 10,20,30;
+
+
+4. Write a SQL query to display the sum of two numbers 10 and 15 from the RDBMS server. 
+
+SELECT 10 + 15;
+
+
+
+
+
 
 
 
