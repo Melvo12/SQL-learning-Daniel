@@ -37,6 +37,35 @@ SELECT 10,20,30;
 SELECT 10 + 15;
 
 
+5. Write a SQL statement to display specific columns such as names and commissions for all salespeople.  
+Sample table: salesman
+
+## Table Creation: 
+
+Insert into ejercicios.tablauno (Id, Name ,City,Commission) values 
+(5001, 'James Hoog', 'New York','0.15'),
+(5002, 'Nail Knite', 'Paris','0.13'),
+(5005,'Pit Alex', 'London','0.11'),
+(5006,'Mc Lyon','Paris','0.14'),
+(5007,'Paul Adam','Rome','0.13'),
+(5003,'Lauson Hen','San Jose','0.12')
+
+
+## Answer: 
+
+SELECT name,Commission from tablauno
+
+
+6. Change the name of a column in Mysql
+
+ALTER TABLE tablauno RENAME COLUMN Commission to Commissionchange;
+
+
+
+
+
+
+
 
 
 
