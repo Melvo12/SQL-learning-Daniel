@@ -1,2 +1,2 @@
 # SQL-learning-Daniel
-This a repository for my educational purpose.
+This a portfolio of many types of exercises that I did in order to show my capabilities. 
